@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1607761405 source:c:\users\Администратор\desktop\da\client\main.cpp
+	<iostream>
+	<winsock2.h>
+	<windows.h>
+
+1610745639 source:c:\users\Администратор\desktop\da\jas\client\main.cpp
+	<iostream>
+	<winsock2.h>
+	<windows.h>
+	<fstream>
+	<stdio.h>
+	<winsock.h>
+	<direct.h>
+
